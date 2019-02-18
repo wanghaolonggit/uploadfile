@@ -1,0 +1,16 @@
+{
+    "name": "wanghaolong/uploadfile",
+    "description": "一个通用文件上传包",
+    "authors": [
+        {
+            "name": "haolong",
+            "email": "haolong@51jianjiao.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "haolong\\": "src/"
+        }
+    }
+}
