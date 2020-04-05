@@ -1,6 +1,6 @@
 <?php
 /**
- * 通用文件上传类
+ * 通用文件上传类11111
  * @author  guanguans <yzmguanguan@gmail.com>
  */
 namespace haolong;  // 注意命名空间与 composer.json 中的一致
